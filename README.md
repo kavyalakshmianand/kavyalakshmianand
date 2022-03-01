@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @kavyalakshmianand
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+const num1 = 5;
+const num2 = 3;
 
-<!---
-kavyalakshmianand/kavyalakshmianand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+// add two numbers
+const sum = num1 + num2;
+
+// display the sum
+console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
